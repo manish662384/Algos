@@ -1,0 +1,1 @@
+Some basic logical programs that I practiced in mid 2018.
